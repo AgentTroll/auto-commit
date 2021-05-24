@@ -23,7 +23,7 @@ Clone the repo and run `install.sh`.
 Alternatively if you are lazy:
 
 ```shell
-curl https://raw.githubusercontent.com/AgentTroll/auto-commit/master/install.sh | sh
+curl https://raw.githubusercontent.com/caojohnny/auto-commit/master/install.sh | sh
 ```
 
 # Uninstall
@@ -33,7 +33,7 @@ Clone the repo and run `uninstall.sh`.
 Alternatively if you are lazy:
 
 ```shell
-curl https://raw.githubusercontent.com/AgentTroll/auto-commit/master/uninstall.sh | sh
+curl https://raw.githubusercontent.com/caojohnny/auto-commit/master/uninstall.sh | sh
 ```
 
 # FAQ
